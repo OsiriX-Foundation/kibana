@@ -2,7 +2,7 @@
 
 server.name: kibana
 server.host: "kibana"
-server.basepath: "/kibana"
+server.basePath: "/kibana"
 elasticsearch.hosts: http://elasticsearch:9200
 
 #elastalert-kibana-plugin.serverHost: kibana
